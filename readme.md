@@ -1,33 +1,16 @@
-## Use Azure app service editor
+### Music Bot 
+> Billboard real-time chart & YouTube search results can be seen. <br>
+> 빌보드 실시간 차트 & 유튜브 검색 결과를 볼 수 있다.
 
-1. make code change in the online editor
-2. open the console window and run
+### Use Technique (사용 기술)
+> C#, botframework
 
-```
-build.cmd
-```
+### Team Project (My Function)
+> YouTube search result implementation <br>
+> 유튜브 검색 결과 구현
 
-## Use Visual Studio 
-
-### Build and debug
-1. download source code zip and extract source in local folder
-2. open {PROJ_NAME}.sln in Visual Studio
-3. build and run the bot
-4. download and run [botframework-emulator](https://emulator.botframework.com/)
-5. connect the emulator to http://localhost:3987
-
-### Publish back
-
-In Visual Studio, right click on {PROJ_NAME} and select 'Publish'
-
-For first time publish after downloading source code
-1. In the publish profiles tab, click 'Import'
-2. Browse to 'PostDeployScripts' and pick '{SITE_NAME}.publishSettings'
-
-
-## Use continuous integration
-
-If you have setup continuous integration, then your bot will automatically deployed when new changes are pushed to the source repository.
-
-
-
+### implementation photograph
+![image](https://user-images.githubusercontent.com/76616541/182022025-94471692-a944-4cdb-898a-5fc8331d866a.png)
+![image](https://user-images.githubusercontent.com/76616541/182022034-59e41050-9408-4abf-adb0-a9133255828c.png)
+![image](https://user-images.githubusercontent.com/76616541/182022041-b8c59665-2ea1-438f-9294-13aa1820cbbd.png)
+![image](https://user-images.githubusercontent.com/76616541/182022054-17833acb-54b9-46be-b6e0-34c13a3280d5.png)
