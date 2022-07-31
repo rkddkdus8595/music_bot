@@ -1,0 +1,18 @@
+{
+    "name": "MusicBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3984/api/messages",
+            "id": "370a6b20-7f7d-11e9-b5f7-931ffe9d9002",
+            "name": "http://localhost:3984/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\강아연\\Desktop\\MusicBot_Start (2)\\MusicBot.bot"
+}
